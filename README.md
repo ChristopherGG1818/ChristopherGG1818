@@ -3,7 +3,8 @@
 # Hi, I'm Christopher Garcia-Gonzalez
 
 🎓 **Undergraduate Computer Science & Data Science Student at Belmont University**  
-💡 **President of Bruins in Tech** – a student-founded tech organization fostering collaboration, innovation, and community  
+💡 **President of Bruins in Tech** – a student-founded tech organization fostering collaboration, innovation, and community
+🔎 **Research in Belmont** - Created a dataset on Nashville Traffic and accidents
 📫 Reach me at **christopherg1818@gmail.com**  
 ⚡ Fun fact: I’m bilingual (English 🇺🇸 / Spanish 🇲🇽)
 
@@ -15,8 +16,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-
 ---
 
 ### 🧠 Skills & Tools
@@ -30,8 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
 
 ---
 
