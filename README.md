@@ -4,7 +4,7 @@
 
 🎓 **Undergraduate Computer Science & Data Science Student at Belmont University**  
 💡 **President of Bruins in Tech**   – a student-founded tech organization fostering collaboration, innovation, and community  
-🔎 **Research in Belmont** - Created a dataset on Nashville Traffic and accidents
+🔎 **Research in Belmont** - Created a dataset on Nashville Traffic and accidents    
 📫 Reach me at **christopherg1818@gmail.com**  
 ⚡ Fun fact: I’m bilingual (English 🇺🇸 / Spanish 🇲🇽)
 
