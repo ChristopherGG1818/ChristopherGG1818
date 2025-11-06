@@ -1,4 +1,4 @@
-# ChristopherGG1818-ChristopherGG1818
+# ChristopherGG1818
 
 # Hi, I'm Christopher Garcia-Gonzalez
 
