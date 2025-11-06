@@ -36,3 +36,5 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
+
+<img src="Color.gif" alt="RGB Glow Line" width="90" />
